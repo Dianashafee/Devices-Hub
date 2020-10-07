@@ -1,0 +1,45 @@
+
+
+nav{
+    width: 100%;
+    background-color: rgb(93, 93, 93);
+    color: white;
+    text-align: center;
+    padding: 20px;
+    font-size: 60px;
+}
+
+image{
+    background-repeat: no-repeat;
+}
+
+ input #submit{
+    background-color: #F5F5DC;
+}
+
+#deviceForm{
+    float: left;
+    text-align: center;
+    background-color:  #F5F5DC ;
+}
+
+table{
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    border: 15px solid  rgb(93, 93, 93);
+    border-collapse: collapse;
+    margin-right: 15%;
+    font-size: 30px;
+}
+
+td{
+    border: 2px solid darkgray;
+}
+
+#deviceForm{
+    position: absolute;
+    left: 10%;
+    top: 40%;
+    box-sizing: 50%;
+}
